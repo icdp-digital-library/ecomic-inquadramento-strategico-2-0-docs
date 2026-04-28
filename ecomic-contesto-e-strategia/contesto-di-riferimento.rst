@@ -6,7 +6,7 @@ Il PNRR e l’investimento M1C3 1.1
 
 Ecomic nasce nell’ambito della Missione 1 Componente 3 del Piano Nazionale di Ripresa e Resilienza (PNRR), Investimento 1.1 “**Strategie e piattaforme digitali per il patrimonio culturale**”, coordinato dall’Istituto centrale per la digitalizzazione del patrimonio culturale – Digital Library. L’obiettivo è duplice: da un lato realizzare una digitalizzazione estesa del patrimonio culturale italiano, dall’altro costruire un’infrastruttura tecnologica nazionale in grado di garantire la raccolta, la gestione, l'accessibilità e la valorizzazione dei dati culturali.
 
-L’investimento è articolato in dodici sub-investimenti tra loro interconnessi e adotta un modello di governance orientato a superare la frammentazione progettuale, valorizzare le competenze esistenti e incentivare la collaborazione promuovendo un :term:`Ecosistema digitale` cooperativo e interoperabile.
+L’investimento è articolato in dodici sub-investimenti tra loro interconnessi e adotta un modello di governance orientato a superare la frammentazione progettuale, valorizzare le competenze esistenti e incentivare la collaborazione promuovendo un :term:`ecosistema digitale <Ecosistema digitale>` cooperativo e interoperabile.
 
 .. admonition:: Per approfondire
 
