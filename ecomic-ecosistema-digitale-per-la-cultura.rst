@@ -8,6 +8,7 @@ La strategia dell'ecosistema è attuata per mezzo di una struttura a regia distr
 Al centro di Ecomic si colloca il :term:`nucleo tecnologico <Nucleo tecnologico abilitante>`   composto dai sistemi D.PaC, I.PaC e DPaaS, che abilitano la gestione integrata dei :term:`beni digitali <Bene digitale>`   in tutte le fasi del loro :term:`ciclo di vita <Ciclo di vita del bene digitale>`. Il capitolo introduce inoltre le categorie di servizi digitali, abilitati o potenziati dal nucleo tecnologico, preparando l'analisi dettagliata che verrà svolta nei successivi capitoli 3 e 4.
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Indice dei contenuti
 
