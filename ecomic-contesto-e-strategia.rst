@@ -8,6 +8,7 @@ Ecomic si configura come un ambiente digitaleintegrato che connette :term:`Attor
 Viene inoltre descritta l’articolazione degli obiettivi strategici che orientano la crescita dell’ecosistema e viene proposta una segmentazione dei suoi portatori di interesse, organizzati secondo la classificazione funzionale del PND. Questo assetto prepara l’analisi operativa dei ruoli e delle relazioni tra Attori   che verrà approfondita nel capitolo successivo.
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Indice dei contenuti
 
