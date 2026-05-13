@@ -3,7 +3,7 @@
 Servizi gestionali   
 ==================
 
-I servizi gestionali   sono **dedicati all’archiviazione, organizzazione, descrizione, gestione e amministrazione dei beni digitali**. Costituiscono l’infrastruttura operativa che consente agli Attori   dell’ecosistema – in particolare istituzioni culturali, enti pubblici e soggetti titolari di beni digitali   – di mantenere, valorizzare e rendere disponibile nel tempo il proprio :term:`patrimonio digitale`. Operano dietro le quinte della fruizione pubblica, ma sono cruciali per assicurare che i contenuti digitali siano correttamente ospitati e gestiti in un’ottica di lungo periodo, nel solco del lavoro svolto dagli Istituti Centrali, che Ecomic riconosce e valorizza come fondamento per costruire un ecosistema condiviso e continuo.
+I servizi gestionali   sono **dedicati all’archiviazione, organizzazione, descrizione, gestione e amministrazione dei beni digitali**. Costituiscono l’infrastruttura operativa che consente agli Attori   dell’ecosistema – in particolare istituzioni culturali, enti pubblici e soggetti titolari di beni digitali   – di mantenere, valorizzare e rendere disponibile nel tempo il proprio :term:`patrimonio digitale <Patrimonio digitale>`. Operano dietro le quinte della fruizione pubblica, ma sono cruciali per assicurare che i contenuti digitali siano correttamente ospitati e gestiti in un’ottica di lungo periodo, nel solco del lavoro svolto dagli Istituti Centrali, che Ecomic riconosce e valorizza come fondamento per costruire un ecosistema condiviso e continuo.
 
 .. _sistemi-informativi-afferenti-alla-categoria-1:
 
@@ -39,7 +39,7 @@ Progettata secondo l’architettura delle *Single Page Application*, **Teca cons
 
 L’applicazione integra funzionalità avanzate di visualizzazione, come media player e streaming player, che abilitano la fruizione diretta dei contenuti multimediali. Gli operatori possono inoltre attivare i servizi di CPA.
 
-Le risorse elaborate possono essere aggregate in collezioni tematiche e organizzate in cartelle *smart*, alimentando una conoscenza computabile e interconnessa, conforme ai principi del :term:`Knowledge as a Service <Knowledge as a Service (KaaS)>`  (KaaS )\ . Teca supporta inoltre la descrizione  dei beni attraverso un modello dati semplificato basato su standard MODS, abilitando l’arricchimento del grafo  multimedialee contribuendo alla costruzione del grafo  cross-dominiodi Ecomic.
+Le risorse elaborate possono essere aggregate in collezioni tematiche e organizzate in cartelle *smart*, alimentando una conoscenza computabile e interconnessa, conforme ai principi del :term:`Knowledge as a Service (KaaS)`\ . Teca supporta inoltre la descrizione  dei beni attraverso un modello dati semplificato basato su standard MODS, abilitando l’arricchimento del grafo  multimedialee contribuendo alla costruzione del grafo  cross-dominiodi Ecomic.
 
 A questo scopo, l’interfaccia integra il widget di navigazione dei grafi, che consente l’inserimento e la gestione diretta delle entità connesse alle risorse (es. responsabilità, luoghi, soggetti), facilitando la creazione di nuove relazioni semantiche. Le operazioni attivate vengono trattate come processi asincroni, tracciati e monitorabili tramite una sezione dedicata, che offre una visione chiara dello stato delle attività in corso.
 
@@ -50,7 +50,7 @@ Widget di navigazione dei Grafi
 
 Tra gli strumenti avanzati messi a disposizione da I.PaC, o richiamabili mediante e-service forniti dall’Infrastruttura, ha notevole rilievo il componente dedicato alla gestione ed esplorazione delle :term:`Super Entità`\ \ . Si tratta di un componente progettato per offrire funzionalità trasversali ai domini e, laddove necessario, progettate ad hoc per esigenze peculiari del singolo Destinatario, anche attraverso micro-fronte dedicati.
 
-Il componente potrà essere integrato nei sistemi di produzione del dato e in Teca Multimediale, allo scopo di supportare gli operatori nelle attività di catalogazione e descrizione, attraverso la ricerca e la cattura dal :term:`grafo di conoscenza`– prima di dominio e poi cross-dominio – di *Authority Record*, riferimenti bibliografici o altre entità di interesse (eventi, luoghi, soggetti, ecc.).
+Il componente potrà essere integrato nei sistemi di produzione del dato e in Teca Multimediale, allo scopo di supportare gli operatori nelle attività di catalogazione e descrizione, attraverso la ricerca e la cattura dal :term:`grafo di conoscenza <Grafo di conoscenza>`– prima di dominio e poi cross-dominio – di *Authority Record*, riferimenti bibliografici o altre entità di interesse (eventi, luoghi, soggetti, ecc.).
 
 Il componente consente inoltre di validare SuperAuthority (attualmente Agenti) e, in prospettiva, tutte le Super Entità“in attesa di validazione” da parte di I.PaC. In questo modo, l’infrastruttura può ricevere contributi qualificati da esperti del settore, consentendo loro di collaborare attivamente all’aumento della qualità del dato presente e condiviso.
 
