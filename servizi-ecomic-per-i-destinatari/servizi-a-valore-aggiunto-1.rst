@@ -3,7 +3,7 @@
 Servizi a valore aggiunto   
 =========================
 
-I servizi a valore aggiunto   rappresentano l’anello più innovativo e dinamico dell’:term:`ecosistema digitale` per la cultura: soluzioni sperimentali, ad alto impatto tecnologico e creativo, progettate per rispondere a fabbisogni specifici espressi dagli Istituti culturali e per valorizzare nuovi scenari di fruizione, accessibilità, mediazione e conoscenza.
+I servizi a valore aggiunto   rappresentano l’anello più innovativo e dinamico dell’:term:`ecosistema digitale <Ecosistema digitale>` per la cultura: soluzioni sperimentali, ad alto impatto tecnologico e creativo, progettate per rispondere a fabbisogni specifici espressi dagli Istituti culturali e per valorizzare nuovi scenari di fruizione, accessibilità, mediazione e conoscenza.
 
 Prodotti e servizi innovativi realizzati da Istituti e luoghi della cultura con il supporto di Digital Library
 --------------------------------------------------------------------------------------------------------------
