@@ -8,7 +8,7 @@ Istituto centrale per la digitalizzazione del patrimonio culturale – Digital L
 Licenza `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it>`__
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Prefazione
 
    premessa.rst
@@ -17,7 +17,7 @@ Licenza `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/
 
 .. toctree::
    :numbered:
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Indice dei contenuti
 
    ecomic-contesto-e-strategia.rst
@@ -26,7 +26,7 @@ Licenza `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/
    servizi-ecomic-per-i-destinatari.rst
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    conclusioni.rst
    bibliografia-e-glossario.rst
