@@ -8,6 +8,7 @@ Il nucleo è composto da tre sistemi integrati: D.PaC, per la gestione delle cam
 Il capitolo offre inoltre un dettaglio sui servizi erogati da Digital Library.
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Indice dei contenuti
 
