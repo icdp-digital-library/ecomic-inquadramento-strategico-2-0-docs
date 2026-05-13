@@ -21,7 +21,7 @@ Frammentazione e disomogeneità dei dati
 
        Tra le principali innovazioni di Ecomic, tali strutture, anche grazie all’uso di modelli di intelligenza artificiale, consentono di descrivere e correlare beni digitali di qualsiasi dominio (archivistico, bibliografico, museale, ecc.), natura e provenienza, attivando connessioni semantiche inedite e cross-dominio.
 
-       **Questo approccio abilita lo sviluppo di servizi** :term:`*Knowledge as a Service* (KaaS) <Knowledge as a Service (KaaS)>`, **in cui i dati diventano risorse computabili e riusabili.**
+       **Questo approccio abilita lo sviluppo di servizi** :term:`*Knowledge as a Service (KaaS)* <Knowledge as a Service (KaaS)>`, **in cui i dati diventano risorse computabili e riusabili.**
 
 
 Fragilità organizzative e modelli gestionali obsoleti
