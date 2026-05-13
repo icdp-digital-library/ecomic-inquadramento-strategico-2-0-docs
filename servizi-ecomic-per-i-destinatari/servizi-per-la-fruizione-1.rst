@@ -40,7 +40,7 @@ Piattaforma di accesso integrato di Digital Library
 
 La Piattaforma di accesso integrato, attualmente in fase di co-progettazione e sviluppo da parte di Digital Library rappresenta un punto di accesso unico e integrato al patrimonio culturale digitale di Ecomic, progettato per rendere semplice e intuitiva la fruizione e il riuso dei beni digitali   da parte di tutta la cittadinanza.
 
-Si configura come un portale generalista che aggrega i beni ospitati in I.PaC, includendo sia quelli prodotti in D.PaC sia quelli integrati dai sistemi degli enti che hanno reso visibili i propri dati. Anche grazie all’integrazione con i servizi di I.PaC, è in grado di offrire funzionalità avanzate di ricerca e filtraggio, percorsi inediti di scoperta e conoscenza della cultura italiana, opzioni di riuso e attivazione di operazioni di :term:`arricchimento` tramite IA.
+Si configura come un portale generalista che aggrega i beni ospitati in I.PaC, includendo sia quelli prodotti in D.PaC sia quelli integrati dai sistemi degli enti che hanno reso visibili i propri dati. Anche grazie all’integrazione con i servizi di I.PaC, è in grado di offrire funzionalità avanzate di ricerca e filtraggio, percorsi inediti di scoperta e conoscenza della cultura italiana, opzioni di riuso e attivazione di operazioni di :term:`arricchimento <Arricchimento>` tramite IA.
 
 .. _contributo-agli-obiettivi-di-ecomic-3:
 
