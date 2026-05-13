@@ -104,7 +104,7 @@ Glossario
       complementari: una informativa (descrizione e metadati) e una fisica
       (:term:`risorsa digitale`).
 
-   Bitstream
+   BitStream
       Insieme di operazioni applicate direttamente agli oggetti digitali per
       renderli leggibili e utilizzabili dai sistemi informatici. Include
       tecniche come l’OCR, la trascrizione automatica e la sintesi vocale.
@@ -152,7 +152,7 @@ Glossario
       di progetti culturali. Favorisce la partecipazione attiva, stimola nuove
       forme di fruizione e rafforza il legame tra cittadini e istituzioni.
 
-   :term:`Data as a Service (DaaS)`
+   Data as a Service (DaaS)
       Modello di fornitura e distribuzione dei dati in cui informazioni
       digitali (testi, immagini, suoni, video) sono accessibili via Internet,
       su richiesta. Basato su cloud e API, consente interrogazioni dirette e
@@ -163,7 +163,7 @@ Glossario
       funzionalità o informazioni utili. Trasforma dati grezzi in informazioni
       utili o funzionalità pratiche per utenti, aziende o altre tecnologie.
 
-   Datastream
+   DataStream
       Insieme di operazioni che lavorano sul significato e la struttura dei
       dati digitali. Comprende attività come l’arricchimento descrittivo, la
       bonifica testuale, la riconciliazione con authority file e la
@@ -181,7 +181,7 @@ Glossario
       tipologie. In Ecomic segue lo standard METS ECO-MiC, permettendo
       accesso, tracciabilità e riuso dei contenuti.
 
-   :term:`Destinatario`
+   Destinatario
       Pubblico cui sono rivolti i servizi digitali dell’ecosistema. Comprende
       cittadini, ricercatori, turisti, studenti, coinvolti non solo come
       fruitori ma anche come partecipanti attivi nei processi di
@@ -231,12 +231,12 @@ Glossario
       sostenere il ciclo di vita del bene digitale. Supera la frammentazione e
       abilita collaborazione stabile tra Attori.
 
-   **Interoperabilità**
+   Interoperabilità
       Capacità di sistemi diversi di scambiare dati in modo coerente. Include
       l’integrazione tecnica e la cooperazione tra enti pubblici, privati e
       professionisti, secondo standard comuni.
 
-   :term:`Knowledge as a Service (KaaS)`
+   Knowledge as a Service (KaaS)
       Modello di servizio che rende disponibili conoscenze organizzate, basate
       su reti di dati e relazioni semantiche, accessibili via Internet. A
       differenza del DaaS, restituisce informazioni strutturate e relazionate
@@ -361,7 +361,7 @@ Glossario
       mantiene il controllo sui propri flussi di catalogazione e gestione dei
       contenuti.
 
-   :term:`Super Entità`
+   Super Entità
       Una rappresentazione digitale che aggrega informazioni relative a una
       stessa entità culturale, provenienti da fonti diverse. Consente di
       collegare dati eterogenei, arricchendoli automaticamente tramite sistemi
