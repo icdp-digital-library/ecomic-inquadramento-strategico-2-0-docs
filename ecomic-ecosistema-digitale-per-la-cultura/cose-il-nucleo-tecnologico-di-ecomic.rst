@@ -13,7 +13,7 @@ Questa sezione ne introduce i tre sistemi: D.PaC, I.PaC e DPaaS, che verranno ma
 
 **I.PaC è l’infrastruttura centrale di Ecomic che integra il patrimonio culturale digitale e ne rende possibile la gestione avanzata e la piena valorizzazione.**
 
-**DPaaS è uno spazio di sperimentazione dove trasformare e combinare dati culturali per creare nuovi elaborati, ottenuti attraverso processi di** :term:`arricchimento` **dei dati stessi.**
+**DPaaS è uno spazio di sperimentazione dove trasformare e combinare dati culturali per creare nuovi elaborati, ottenuti attraverso processi di** :term:`arricchimento <Arricchimento>` **dei dati stessi.**
 
 D.PaC – Digitalizzazione per il patrimonio culturale
 --------------------------------------------------------------
@@ -28,7 +28,7 @@ Nata nell'ambito del PNRR per gestire gli oltre 500 cantieri di digitalizzazione
 
 D.PaC offre alle amministrazioni committenti, agli enti titolari di beni culturali e agli operatori della digitalizzazione e della descrizione  uno spazio condiviso che supporta la collaborazione e l’efficienza dei progetti, secondo un modello operativo standardizzato. La piattaforma integra diversi strumenti, organizzati in moduli, che permettono di pianificare le attività di digitalizzazione, gestire la documentazione di progetto, eseguire il caricamento dei pacchetti di contenuto, verificarne la qualità, descrivere i beni culturali, conferire le :term:`risorse digitali <Risorsa digitale>`   e le descrizioni nell’infrastruttura I.PaC. Tutte le fasi sono supportate da strumenti di monitoraggio e di *business intelligence*, consentendo una gestione dinamica e *data-driven* delle risorse e delle tempistiche.
 
-D.PaC è un importante abilitatore organizzativo, che promuove l’ottimizzazione dei processi, riduce i costi operativi e contribuisce alla qualità dei beni digitali   prodotti, rafforzando le competenze degli operatori coinvolti. Costituisce così la “porta di accesso” all’ecosistema, in quanto strumento di conferimento di risorse digitali   e descrizioni in I.PaC, con un'attenzione particolare all’:term:`interoperabilità` dei dati e alla loro fruibilità futura.
+D.PaC è un importante abilitatore organizzativo, che promuove l’ottimizzazione dei processi, riduce i costi operativi e contribuisce alla qualità dei beni digitali   prodotti, rafforzando le competenze degli operatori coinvolti. Costituisce così la “porta di accesso” all’ecosistema, in quanto strumento di conferimento di risorse digitali   e descrizioni in I.PaC, con un'attenzione particolare all’:term:`interoperabilità <Interoperabilità>` dei dati e alla loro fruibilità futura.
 
 Nella futura configurazione “D.PaC gestione”, complementare rispetto a quella attuale, D.PaC offrirà anche strumenti per l’archiviazione e la gestione dei beni digitali, rispondendo alle esigenze di istituzioni di piccole e medie dimensioni che desiderano far parte di Ecomic ma non hanno un proprio sistema di gestione.
 
@@ -44,7 +44,7 @@ I.PaC – Infrastruttura e servizi digitali per il patrimonio culturale
 
 I.PaC costituisce il cuore informativo e motore tecnologico dell’ecosistema, progettato per assicurare l’archiviazione sicura, la gestione e l’arricchimento dell’intero patrimonio culturale digitale italiano. Integra i beni digitali   e i dati culturali rendendoli interoperabili, valorizzabili e riutilizzabili in vari contesti.
 
-La sua architettura si fonda sul principio della cooperazione applicativa tra sistemi: I.PaC non è un ambiente d’uso diretto per le persone, ma un sistema :term:`machine-to-machine`  che permette a software e infrastrutture di enti diversi di scambiare e arricchire informazioni in modo automatico e sicuro. Musei, archivi, biblioteche, enti territoriali, istituti centrali e soggetti di ricerca o del settore creativo possono aderire stipulando accordi di cooperazione e collegando i propri sistemi all’infrastruttura.
+La sua architettura si fonda sul principio della cooperazione applicativa tra sistemi: I.PaC non è un ambiente d’uso diretto per le persone, ma un sistema :term:`machine-to-machine <Machine-to-machine>`  che permette a software e infrastrutture di enti diversi di scambiare e arricchire informazioni in modo automatico e sicuro. Musei, archivi, biblioteche, enti territoriali, istituti centrali e soggetti di ricerca o del settore creativo possono aderire stipulando accordi di cooperazione e collegando i propri sistemi all’infrastruttura.
 
 Attraverso un insieme articolato di servizi tecnologici abilitanti, I.PaC gestisce l’intero ciclo di vita   dei beni digitali: dall’archiviazione di risorse digitali   e/o descrizioni alla loro gestione, fino ai processi di elaborazione tecnica e semantica. I servizi più innovativi riguardano i grafi di conoscenza, che rappresentano in forma relazionale le connessioni tra beni, persone, luoghi e concetti, permettendo di ricostruire contesti e legami culturali anche trasversali ai diversi domini disciplinari.
 
