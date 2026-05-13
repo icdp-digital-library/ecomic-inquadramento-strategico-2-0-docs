@@ -19,7 +19,7 @@ root_doc = 'index'
 # HTML output
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'navigation_depth': 4,
+    'navigation_depth': 2,
     'collapse_navigation': False,
     'sticky_navigation': True,
 }
