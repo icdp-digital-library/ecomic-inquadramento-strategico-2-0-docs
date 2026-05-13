@@ -6,6 +6,7 @@ Il presente capitolo conclude il percorso di analisi del documento ponendo al ce
 I servizi digitali sviluppati da Digital Library e dagli :term:`Attori <Attore>`   non sono semplici contenitori di :term:`beni digitali <Bene digitale>`, ma, tipicamente, sistemi informativi modulari e dinamici, pensati per supportare la fruizione, la gestione, la creazione di valore aggiunto e l’acquisizione di beni digitali afferenti al patrimonio culturale.
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Indice dei contenuti
 
