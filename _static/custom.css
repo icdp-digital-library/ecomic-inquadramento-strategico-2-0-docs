@@ -28,10 +28,3 @@ table.docutils th {
 .admonition {
     margin-bottom: 1.5em;
 }
-
-/* Glossario: nasconde i lemmi alias lowercase aggiunti come synonym Sphinx.
-   Gli alias servono solo a generare anche un id lowercase (es. term-patrimonio-digitale),
-   richiesto dal popup AJAX di Docs Italia per il lookup del termine. */
-.glossary dt + dt {
-    display: none;
-}
